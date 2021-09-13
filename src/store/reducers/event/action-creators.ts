@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 import { AppDispatch } from '../..';
 import UserService from '../../../api/UserService';
 import { IEvent } from '../../../models/IEvent';
